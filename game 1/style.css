@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+
+body{
+    padding-top: 10%;
+    background-color: #ececec;
+    font-family: 'Oswald', sans-serif;
+}
+h1, p, form{
+    text-align: center;
+}
+input{
+    width: 50%;
+    height: 5%;
+}
+button{
+    height: 5%;
+    background-color: #77dd77;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #68Bf88;
+}
